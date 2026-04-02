@@ -1,19 +1,12 @@
 <svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
-  <!-- Pixel Border -->
-  <rect x="0" y="0" width="300" height="300" fill="#0d1117"/>
-  
-  <!-- Outer pixel border -->
+  <rect width="300" height="300" fill="#0d1117"/>
   <rect x="10" y="10" width="280" height="280" fill="#000"/>
   <rect x="20" y="20" width="260" height="260" fill="#222"/>
-  
-  <!-- Inner frame -->
   <rect x="30" y="30" width="240" height="240" fill="#000"/>
 
-  <!-- Avatar -->
   <image href="https://avatars.githubusercontent.com/u/189953007?v=4"
          x="40" y="40" height="220" width="220"/>
 
-  <!-- Pixel corners -->
   <rect x="10" y="10" width="20" height="20" fill="#00ffcc"/>
   <rect x="270" y="10" width="20" height="20" fill="#00ffcc"/>
   <rect x="10" y="270" width="20" height="20" fill="#00ffcc"/>
