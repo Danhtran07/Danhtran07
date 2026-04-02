@@ -25,7 +25,7 @@
 
 ---
 
-## ❤️ STATS BAR (NO BUG VERSION)
+## ❤️ STATS BAR
 
 ```id="bar2"
 HP      ██████████░░ 80%
@@ -50,7 +50,6 @@ ProblemSolve █████████░ 80%
 
 * 🎮 gamehubplatform
 * 💬 MeetPeople
-* 📱 baitap_final
 
 ---
 
@@ -64,13 +63,6 @@ ProblemSolve █████████░ 80%
 
 ---
 
-## 🌆 WORLD MAP
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danhtran07&theme=tokyo-night"/>
-</p>
-
----
 
 ## 🎮 PIXEL ZONE
 
