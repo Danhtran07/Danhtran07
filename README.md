@@ -1,39 +1,51 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/189953007?s=400&u=2594f9ba742c38b5cc558ccfd56fb00709c61ee2&v=4" width="180" style="border-radius:50%;" />
+  <img src="https://avatars.githubusercontent.com/u/189953007?v=4" width="160" style="border-radius:50%;" />
 </p>
 
-<h1 align="center">👾 Danh Tran</h1>
+<h1 align="center">👾 DANH TRAN</h1>
 
 <p align="center">
-🎮 Game Developer | 💻 Unity & Web | 🚀 Building cool stuff
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Game+Developer;Unity+%7C+C%23;Building+Games;Always+Leveling+Up" />
 </p>
 
 ---
 
-## 🕹 PLAYER PROFILE
+## 🕹 PLAYER HUD
 
 ```
-Name: Danh Tran
-Class: Developer
-Level: 21
-Location: TP.HCM
-Status: Coding...
+Name   : Danh Tran
+Class  : Game Developer
+Level  : 21
+Server : TP.HCM
+Status : 🟢 Online
 ```
 
 ---
 
-## ⚡ SKILLS
+## ❤️ HP / ENERGY / EXP
 
-<p>
-  🎮 Unity & C# <br>
-  🌐 Web Development <br>
-  🧠 Problem Solving <br>
-  ⚙️ Game Systems
+<p align="center">
+  <img src="https://progress-bar.dev/80/?title=HP&width=500&color=ff4444"/>
+  <br/>
+  <img src="https://progress-bar.dev/70/?title=ENERGY&width=500&color=00ffff"/>
+  <br/>
+  <img src="https://progress-bar.dev/75/?title=EXP&width=500&color=ffd700"/>
 </p>
 
 ---
 
-## 🎯 FEATURED PROJECTS
+## 🎮 SKILL TREE
+
+```
+🎯 Unity        ██████████ 90%
+💻 C#           █████████░ 85%
+🌐 Web Dev      ████████░░ 75%
+🧠 ProblemSolve █████████░ 80%
+```
+
+---
+
+## 📦 QUESTS (PROJECTS)
 
 * 🎮 gamehubplatform
 * 💬 MeetPeople
@@ -41,26 +53,28 @@ Status: Coding...
 
 ---
 
-## 📊 STATS
+## 📊 PLAYER STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danhtran07&show_icons=true&theme=tokyonigh" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Danhtran07&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danhtran07&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 ACTIVITY GRAPH
+## 🌆 WORLD MAP
 
 <p align="center">
-  <img src="" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danhtran07&theme=tokyo-night"/>
 </p>
 
 ---
 
-## 🌌 PIXEL VIBE
+## 🎧 VIBE MODE
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="320"/>
 </p>
 
 ---
@@ -73,5 +87,5 @@ Status: Coding...
 ---
 
 <p align="center">
-⚡ "Keep building. Keep leveling up."
+⚡ SYSTEM: Player is grinding EXP...
 </p>
