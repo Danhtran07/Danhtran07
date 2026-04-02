@@ -1,55 +1,41 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Danhtran07/Danhtran07/main/pixel-frame.svg" width="180"/>
+  <img src="https://raw.githubusercontent.com/Danhtran07/Danhtran07/main/pixel-frame.svg" width="160"/>
 </p>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3000&color=00FFCC&center=true&vCenter=true&lines=DANH+TRAN;GAME+DEVELOPER;UNITY+%7C+C%23" />
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&color=00FFCC&center=true&vCenter=true&lines=DANH+TRAN;GAME+DEVELOPER;LEVEL+21;WELCOME+TO+MY+WORLD" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FOCUS-GAMEDEV-ff00ff?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🌆 WORLD BACKGROUND
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%"/>
-</p>
-
----
-
-## 🕹 PLAYER HUD
+## 👋 About Me
 
 <table>
-<tr><td>🎮 NAME</td><td><b>DANH TRAN</b></td></tr>
-<tr><td>🧠 CLASS</td><td>Game Developer</td></tr>
-<tr><td>⚡ LEVEL</td><td>21</td></tr>
-<tr><td>🌆 SERVER</td><td>TP.HCM</td></tr>
-<tr><td>🟢 STATUS</td><td><b style="color:lime;">ONLINE</b></td></tr>
+<tr><td>🎮 Role</td><td><b>Game Developer</b></td></tr>
+<tr><td>💻 Tech</td><td>Unity, C#, Web</td></tr>
+<tr><td>📍 Location</td><td>TP.HCM, Vietnam</td></tr>
+<tr><td>🚀 Goal</td><td>Build interactive & immersive games</td></tr>
 </table>
 
 ---
 
-## ❤️ STATS
+## 🧠 Skills
 
-```
-HP      ██████████░░ 80%
-ENERGY  ████████░░░░ 65%
-EXP     █████████░░ 75%
-```
-
----
-
-## 🎮 SKILL TREE
-
-```
-Unity        ██████████ 90%
-C#           █████████░ 85%
-Web Dev      ████████░░ 75%
-ProblemSolve █████████░ 80%
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Web-ff69b4?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📦 QUESTS
+## 📦 Projects
 
 * 🎮 gamehubplatform
 * 💬 MeetPeople
@@ -57,7 +43,7 @@ ProblemSolve █████████░ 80%
 
 ---
 
-## 📊 PLAYER STATS
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Danhtran07&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -67,21 +53,27 @@ ProblemSolve █████████░ 80%
 
 ---
 
-## 🌌 PIXEL ZONE
+## 🌆 Activity
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danhtran07&theme=tokyo-night"/>
 </p>
 
 ---
 
-## 📫 CONTACT
+## 📫 Contact
 
-* 📧 Email: [tdanh589@gmail.com](mailto:tdanh589@gmail.com)
-* 📘 Facebook: danh.chan.281185
+<p align="center">
+  <a href="mailto:tdanh589@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Facebook-danh.chan-blue?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-⚡ SYSTEM: PLAYER IS GRINDING...
+⚡ Focus on building. Keep improving.
 </p>
