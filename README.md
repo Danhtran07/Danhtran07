@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Danhtran07/Danhtran07/main/pixel-frame.svg" width="160"/>
+  <img src="https://raw.githubusercontent.com/Danhtran07/Danhtran07/master/pixel-frame.svg" width="160"/>
 </p>
 
 <h1 align="center">
