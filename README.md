@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Danhtran07/Danhtran07/master/pixel-frame.svg" width="160"/>
+  <img src="https://avatars.githubusercontent.com/u/189953007?v=4" width="140" style="border:6px solid #000; box-shadow: 0 0 0 6px #00ffcc;" />
 </p>
 
 <h1 align="center">
