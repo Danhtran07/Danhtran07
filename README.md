@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/189953007?v=4" width="140" style="border:6px solid #000; box-shadow: 0 0 0 6px #00ffcc;" />
+  <img src="https://avatars.githubusercontent.com/u/189953007?v=4" width="140"
+  style="
+    border: 8px solid #000;
+    outline: 4px solid #00ffcc;
+    image-rendering: pixelated;
+  "/>
 </p>
 
 <h1 align="center">
