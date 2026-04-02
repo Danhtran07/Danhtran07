@@ -8,14 +8,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MODE-DARK-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MODE-PIXEL-ff00ff?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🕹 PLAYER HUD
 
-```id="hudpixel"
+```id="hud2"
 🎮 NAME   : DANH TRAN
 🧠 CLASS  : GAME DEV
 ⚡ LEVEL  : 21
@@ -25,30 +25,54 @@
 
 ---
 
-## ❤️ HP / ENERGY / EXP
+## ❤️ STATS BAR (NO BUG VERSION)
 
-<p align="center">
-  <img src="https://progress-bar.dev/80/?title=HP&width=400&color=ff0000"/>
-  <br>
-  <img src="https://progress-bar.dev/70/?title=ENERGY&width=400&color=00ffff"/>
-  <br>
-  <img src="https://progress-bar.dev/75/?title=EXP&width=400&color=ffff00"/>
-</p>
+```id="bar2"
+HP      ██████████░░ 80%
+ENERGY  ████████░░░░ 65%
+EXP     █████████░░ 75%
+```
 
 ---
 
 ## 🎮 SKILL TREE
 
-```id="skillpixel"
-🎯 Unity        ██████████
-💻 C#           █████████░
-🌐 Web Dev      ████████░░
-🧠 ProblemSolve █████████░
+```id="skill2"
+Unity        ██████████ 90%
+C#           █████████░ 85%
+Web Dev      ████████░░ 75%
+ProblemSolve █████████░ 80%
 ```
 
 ---
 
-## 🌌 PIXEL MODE
+## 📦 QUESTS
+
+* 🎮 gamehubplatform
+* 💬 MeetPeople
+* 📱 baitap_final
+
+---
+
+## 📊 PLAYER STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Danhtran07&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danhtran07&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌆 WORLD MAP
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danhtran07&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🎮 PIXEL ZONE
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
@@ -57,5 +81,5 @@
 ---
 
 <p align="center">
-🟣 SYSTEM: DARK MODE ENABLED
+🟣 SYSTEM: ULTRA PIXEL MODE ACTIVATED
 </p>
