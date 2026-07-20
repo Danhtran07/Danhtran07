@@ -16,6 +16,9 @@
   <a href="https://www.linkedin.com/in/danh-tran-82a037300/">
     <img src="https://img.shields.io/badge/LinkedIn-Danh_Tran-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
+    <a href="https://www.linkedin.com/in/danh-tran-82a037300/">
+    <img src="https://img.shields.io/badge/Discord-tran__tien__danh-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: tran_tien_danh" />
+  </a>
 </p>
 
 </div>
