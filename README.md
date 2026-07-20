@@ -84,7 +84,7 @@ I enjoy turning game ideas into playable systems, especially gameplay mechanics,
 | Project | Highlights | Stack |
 | --- | --- | --- |
 | **Nightmare** | Solo-developed first-person 3D game with interaction, scene transitions, and event-driven gameplay. [Watch demo](https://www.youtube.com/watch?v=x2lgb0dQqJA) · [Play on itch.io](https://dankchan.itch.io/nightmare) | Unity, C# |
-| **Midnight** | Room creation/joining, synchronized players, real-time chat, spatial voice, touch controls, and mobile camera systems. | Unity, C#, Photon PUN 2, Photon Voice [Watch demo](https://www.youtube.com/watch?v=DQCeELvtVCk)|
+| **Midnight** | Room creation/joining, synchronized players, real-time chat, spatial voice, touch controls, and mobile camera systems.[Watch demo](https://www.youtube.com/watch?v=DQCeELvtVCk) | Unity, C#, Photon PUN 2, Photon Voice|
 ---
 
 ## 📊 GitHub Universe
