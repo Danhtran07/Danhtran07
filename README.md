@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/galaxy-header.svg" alt="Danh Tran — Unity Game Developer" width="100%" />
+<img src="./galaxy-header.svg" alt="Danh Tran — Unity Game Developer" width="100%" />
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Unity+Game+Developer;Gameplay+%7C+Multiplayer+%7C+Game+Systems;Turning+ideas+into+playable+worlds" alt="Typing introduction" />
@@ -82,8 +82,6 @@ I enjoy turning game ideas into playable systems, especially gameplay mechanics,
 | --- | --- | --- |
 | **Nightmare** | Solo-developed first-person 3D game with interaction, scene transitions, and event-driven gameplay. [Watch demo](https://www.youtube.com/watch?v=x2lgb0dQqJA) · [Play on itch.io](https://dankchan.itch.io/nightmare) | Unity, C# |
 | **Multiplayer Mobile 3D** | Room creation/joining, synchronized players, real-time chat, spatial voice, touch controls, and mobile camera systems. | Unity, C#, Photon PUN 2, Photon Voice |
-| **Real-world Weather System** | Maps live weather API data into a reusable snapshot that drives the environment and Pet AI, with fallback handling for network failures. | Unity, C#, OpenWeather API, Behavior Tree |
-
 ---
 
 ## 📊 GitHub Universe
