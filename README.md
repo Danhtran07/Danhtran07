@@ -1,148 +1,134 @@
 <div align="center">
 
-# 🎮 Danh Tran
+<img src="./assets/galaxy-header.svg" alt="Danh Tran — Unity Game Developer" width="100%" />
 
-### Unity Game Developer
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Unity+Game+Developer;Gameplay+%7C+Multiplayer+%7C+Game+Systems;Turning+ideas+into+playable+worlds" alt="Typing introduction" />
+</a>
 
-<img src="https://avatars.githubusercontent.com/u/189953007?v=4" width="180" style="border-radius:50%" />
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Danhtran07&color=blueviolet&style=for-the-badge)](https://github.com/Danhtran07)
+<p>
+  <a href="https://github.com/Danhtran07">
+    <img src="https://komarev.com/ghpvc/?username=Danhtran07&amp;color=7C3AED&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile views" />
+  </a>
+  <a href="mailto:tdanh589@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tdanh589%40gmail.com-4C1D95?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/danh-tran-82a037300/">
+    <img src="https://img.shields.io/badge/LinkedIn-Danh_Tran-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🌌 About Me
 
-🎮 Passionate Unity Developer focused on building engaging gameplay experiences.
+Hi, I'm **Danh**, a final-year IT student and Unity developer based in Ho Chi Minh City, Vietnam.
 
-💡 Interested in game architecture, optimization, and scalable systems.
+I enjoy turning game ideas into playable systems, especially gameplay mechanics, multiplayer features, AI behavior, and platform-ready builds. My current goal is to grow as a Unity developer and help ship polished PC and mobile games.
 
-🚀 Currently improving my skills in Unity, Design Patterns, and Game Programming.
-
-📍 Ho Chi Minh City, Vietnam
-
----
-
-## 🛠 Skills
-
-### 🎮 Game Development
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-- Gameplay Programming
-- UI Implementation
-- Animation System
-- Physics System
-- Input System
-- Scene Management
-- Scriptable Objects
-- Event System
-- Coroutines
+- 🎮 Building Unity gameplay and multiplayer prototypes
+- 🧠 Learning scalable game architecture, profiling, and optimization
+- 🚀 Looking for Unity Fresher / Part-time opportunities
+- ✨ Interested in creative games with strong atmosphere and player interaction
 
 ---
 
-### ⚙ Architecture & Optimization
+## 🪐 Tech Constellation
 
-![OOP](https://img.shields.io/badge/OOP-blue?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID-green?style=for-the-badge)
-![DesignPatterns](https://img.shields.io/badge/Design_Patterns-red?style=for-the-badge)
-![Optimization](https://img.shields.io/badge/Optimization-orange?style=for-the-badge)
+### Core Game Development
 
-- Object-Oriented Programming (OOP)
-- SOLID Principles
-- Design Patterns
-- Object Pooling
-- State Machine
-- Save & Load System
-- Memory Management
-- Performance Optimization
-- Debugging
+<p>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" alt="C Sharp" />
+  <img src="https://img.shields.io/badge/Photon_PUN_2-004480?style=for-the-badge&amp;logo=photon&amp;logoColor=white" alt="Photon PUN 2" />
+  <img src="https://img.shields.io/badge/Unity_UI-222222?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="Unity UI" />
+</p>
 
----
+`Gameplay Programming` · `UI Canvas` · `Input System` · `Physics & Collision`  
+`Animator` · `Scene Management` · `Coroutines` · `REST API Integration`
 
-### 🌐 Web Development
+### Architecture & Optimization
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/OOP-7C3AED?style=for-the-badge" alt="OOP" />
+  <img src="https://img.shields.io/badge/SOLID-2563EB?style=for-the-badge" alt="SOLID" />
+  <img src="https://img.shields.io/badge/Design_Patterns-DB2777?style=for-the-badge" alt="Design Patterns" />
+  <img src="https://img.shields.io/badge/Optimization-F97316?style=for-the-badge" alt="Optimization" />
+</p>
 
-- PHP
-- JavaScript
-- HTML5
-- CSS3
-- MySQL
-- REST API
+`ScriptableObject` · `Object Pooling` · `FSM` · `Behavior Tree`  
+`Event-driven Systems` · `Save & Load` · `Memory Management` · `Debugging`
 
----
+### Tools & Additional Development
 
-### 🛠 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&amp;logo=visualstudio&amp;logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&amp;logo=trello&amp;logoColor=white" alt="Trello" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman" />
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+`PHP` · `JavaScript` · `HTML5` · `CSS3` · `MySQL` · `REST API`
 
 ---
 
+## 🚀 Featured Missions
+
+| Project | Highlights | Stack |
+| --- | --- | --- |
+| **Nightmare** | Solo-developed first-person 3D game with interaction, scene transitions, and event-driven gameplay. [Watch demo](https://www.youtube.com/watch?v=x2lgb0dQqJA) · [Play on itch.io](https://dankchan.itch.io/nightmare) | Unity, C# |
+| **Multiplayer Mobile 3D** | Room creation/joining, synchronized players, real-time chat, spatial voice, touch controls, and mobile camera systems. | Unity, C#, Photon PUN 2, Photon Voice |
+| **Real-world Weather System** | Maps live weather API data into a reusable snapshot that drives the environment and Pet AI, with fallback handling for network failures. | Unity, C#, OpenWeather API, Behavior Tree |
+
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Universe
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Danhtran07&show_icons=true&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Danhtran07&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;icon_color=22D3EE&amp;text_color=C9D1D9" alt="Danh Tran's GitHub statistics" />
+</a>
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Danhtran07&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=C9D1D9" alt="Danh Tran's most used languages" />
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danhtran07&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Danhtran07&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=A78BFA&amp;fire=22D3EE&amp;currStreakLabel=C084FC" alt="Danh Tran's GitHub contribution streak" />
+</a>
 
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Danhtran07&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Danhtran07&theme=tokyo-night"/>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Danhtran07&amp;bg_color=0D1117&amp;color=A78BFA&amp;line=22D3EE&amp;point=FFFFFF&amp;area=true&amp;hide_border=true" alt="Danh Tran's GitHub contribution graph" />
+</a>
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Coordinates
 
-- Unity Game Development
-- Game Architecture
-- Performance Optimization
-- Design Patterns
-- Multiplayer Systems
-
----
-
-## 📫 Contact
-
-📧 Email: tdanh589@gmail.com
-
-🐙 GitHub: https://github.com/Danhtran07
+- Unity gameplay systems
+- Multiplayer architecture
+- Performance profiling and optimization
+- Design patterns for reusable game features
+- Cross-platform build workflows
 
 ---
 
 <div align="center">
 
-### ⚡ Building Games • Learning Daily • Growing Constantly
+### ✦ Building Games · Exploring Systems · Growing Every Day ✦
+
+<a href="mailto:tdanh589@gmail.com">Email</a>
+·
+<a href="https://github.com/Danhtran07">GitHub</a>
+·
+<a href="https://www.linkedin.com/in/danh-tran-82a037300/">LinkedIn</a>
+
+<sub>Made with 💜 somewhere between code and the cosmos.</sub>
 
 </div>
-```
