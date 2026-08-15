@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="./galaxy-header.svg" alt="Danh Tran — Unity Game Developer" width="100%" />
+<img src="./developer-header.svg" alt="Danh Tran — Unity Game Developer" width="100%" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Unity+Game+Developer;Gameplay+%7C+Multiplayer+%7C+Game+Systems;Turning+ideas+into+playable+worlds" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=000000&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Unity+Game+Developer;Gameplay+%7C+Multiplayer+%7C+Game+Systems;Turning+ideas+into+playable+worlds" alt="Typing introduction" />
 </a>
 
 <p>
@@ -49,7 +49,8 @@ I enjoy turning game ideas into playable systems, especially gameplay mechanics,
   <img src="https://img.shields.io/badge/Unity_UI-333333?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="Unity UI" />
 </p>
 
-`Gameplay Programming` · `UI Canvas` · `Input System` · `Physics & Collision`  
+`Gameplay Programming` · `UI Canvas` · `Input System` · `Physics & Collision`
+
 `Animator` · `Scene Management` · `Coroutines` · `REST API Integration`
 
 ### Architecture & Optimization
@@ -61,7 +62,8 @@ I enjoy turning game ideas into playable systems, especially gameplay mechanics,
   <img src="https://img.shields.io/badge/Optimization-444444?style=for-the-badge" alt="Optimization" />
 </p>
 
-`ScriptableObject` · `Object Pooling` · `FSM` · `Behavior Tree`  
+`ScriptableObject` · `Object Pooling` · `FSM` · `Behavior Tree`
+
 `Event-driven Systems` · `Save & Load` · `Memory Management` · `Debugging`
 
 ### Tools & Additional Development
@@ -108,6 +110,8 @@ I enjoy turning game ideas into playable systems, especially gameplay mechanics,
 <a href="https://github.com/Danhtran07">GitHub</a>
 ·
 <a href="https://www.linkedin.com/in/danh-tran-82a037300/">LinkedIn</a>
+
+<br>
 
 <sub>Made with care somewhere between code and the cosmos.</sub>
 
