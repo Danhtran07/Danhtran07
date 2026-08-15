@@ -16,8 +16,8 @@
   <a href="https://www.linkedin.com/in/danh-tran-82a037300/">
     <img src="https://img.shields.io/badge/LinkedIn-Danh_Tran-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
-    <a href="https://www.linkedin.com/in/danh-tran-82a037300/">
-    <img src="https://img.shields.io/badge/Discord-tran__tien__danh-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: tran_tien_danh" />
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-tran__tien__danh-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord: tran_tien_danh" />
   </a>
 </p>
 
@@ -25,20 +25,20 @@
 
 ---
 
-## 🌌 About Me
+## About Me
 
 Hi, I'm **Danh**, a final-year IT student and Unity developer based in Ho Chi Minh City, Vietnam.
 
 I enjoy turning game ideas into playable systems, especially gameplay mechanics, multiplayer features, AI behavior, and platform-ready builds. My current goal is to grow as a Unity developer and help ship polished PC and mobile games.
 
-- 🎮 Building Unity gameplay and multiplayer prototypes
-- 🧠 Learning scalable game architecture, profiling, and optimization
-- 🚀 Looking for Unity Fresher / Part-time opportunities
-- ✨ Interested in creative games with strong atmosphere and player interaction
+- Building Unity gameplay and multiplayer prototypes
+- Learning scalable game architecture, profiling, and optimization
+- Looking for Unity Fresher / Part-time opportunities
+- Interested in creative games with strong atmosphere and player interaction
 
 ---
 
-## 🪐 Tech Constellation
+## Tech Constellation
 
 ### Core Game Development
 
@@ -79,39 +79,19 @@ I enjoy turning game ideas into playable systems, especially gameplay mechanics,
 
 ---
 
-## 🚀 Featured Missions
+## Featured Missions
 
 | Project | Highlights | Stack |
 | --- | --- | --- |
 | **Nightmare** | Solo-developed first-person 3D game with interaction, scene transitions, and event-driven gameplay. [Watch demo](https://www.youtube.com/watch?v=x2lgb0dQqJA) · [Play on itch.io](https://dankchan.itch.io/nightmare) | Unity, C# |
 | **Midnight** | Room creation/joining, synchronized players, real-time chat, spatial voice, touch controls, and mobile camera systems. [Watch demo](https://www.youtube.com/watch?v=DQCeELvtVCk) | Unity, C#, Photon PUN 2, Photon Voice |
 | **Gemzy** | Pixel-art Match-3 game with an 8×8 board, combo system, animated gems, particle effects, touch/mouse controls, and mobile-friendly UI. [Watch demo](https://www.youtube.com/shorts/WEhOnYjLyiA) · [View on GitHub](https://github.com/Danhtran07/Gemzy) | Unity, C#, URP, Unity Input System |
----
-
-## 📊 GitHub Universe
-
-<div align="center">
-
-<a href="https://github.com/stats-organization/github-stats-extended">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Danhtran07&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;icon_color=22D3EE&amp;text_color=C9D1D9" alt="Danh Tran's GitHub statistics" />
-</a>
-<a href="https://github.com/stats-organization/github-stats-extended">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Danhtran07&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=C9D1D9" alt="Danh Tran's most used languages" />
-</a>
-
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Danhtran07&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=A78BFA&amp;fire=22D3EE&amp;currStreakLabel=C084FC" alt="Danh Tran's GitHub contribution streak" />
-</a>
-
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Danhtran07&amp;bg_color=0D1117&amp;color=A78BFA&amp;line=22D3EE&amp;point=FFFFFF&amp;area=true&amp;hide_border=true" alt="Danh Tran's GitHub contribution graph" />
-</a>
-
-</div>
 
 ---
 
-## 🎯 Current Coordinates
+---
+
+## Current Coordinates
 
 - Unity gameplay systems
 - Multiplayer architecture
@@ -123,7 +103,7 @@ I enjoy turning game ideas into playable systems, especially gameplay mechanics,
 
 <div align="center">
 
-### ✦ Building Games · Exploring Systems · Growing Every Day ✦
+### Building Games · Exploring Systems · Growing Every Day
 
 <a href="mailto:tdanh589@gmail.com">Email</a>
 ·
@@ -131,6 +111,6 @@ I enjoy turning game ideas into playable systems, especially gameplay mechanics,
 ·
 <a href="https://www.linkedin.com/in/danh-tran-82a037300/">LinkedIn</a>
 
-<sub>Made with 💜 somewhere between code and the cosmos.</sub>
+<sub>Made with care somewhere between code and the cosmos.</sub>
 
 </div>
