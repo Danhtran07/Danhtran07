@@ -91,14 +91,6 @@ I enjoy turning game ideas into playable systems, especially gameplay mechanics,
 
 ---
 
-## Current Coordinates
-
-- Unity gameplay systems
-- Multiplayer architecture
-- Performance profiling and optimization
-- Design patterns for reusable game features
-- Cross-platform build workflows
-
 ---
 
 <div align="center">
