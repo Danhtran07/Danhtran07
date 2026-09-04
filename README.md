@@ -3,22 +3,13 @@
 <img src="./developer-header.svg" alt="Danh Tran — Unity Game Developer" width="100%" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=000000&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Unity+Game+Developer;Gameplay+%7C+Multiplayer+%7C+Game+Systems;Turning+ideas+into+playable+worlds" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Unity+Game+Developer;Gameplay+%7C+Multiplayer+%7C+Game+Systems;Building+Games+With+Unity" alt="Typing introduction" />
 </a>
 
 <p>
-  <a href="https://github.com/Danhtran07">
-    <img src="https://komarev.com/ghpvc/?username=Danhtran07&amp;color=000000&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile views" />
-  </a>
-  <a href="mailto:tdanh589@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tdanh589%40gmail.com-111111?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/danh-tran-82a037300/">
-    <img src="https://img.shields.io/badge/LinkedIn-Danh_Tran-222222?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-tran__tien__danh-333333?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord: tran_tien__danh" />
-  </a>
+  <a href="mailto:tdanh589@gmail.com">Email</a> ·
+  <a href="https://github.com/Danhtran07">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/danh-tran-82a037300/">LinkedIn</a>
 </p>
 
 </div>
@@ -27,74 +18,58 @@
 
 ## About Me
 
-Hi, I'm **Danh**, a final-year IT student and Unity developer based in Ho Chi Minh City, Vietnam.
+Hi, I'm **Danh**, a final-year IT student and Unity developer from Vietnam.
 
-I enjoy turning game ideas into playable systems, especially gameplay mechanics, multiplayer features, AI behavior, and platform-ready builds. My current goal is to grow as a Unity developer and help ship polished PC and mobile games.
+I build gameplay systems, multiplayer prototypes, AI behaviors, and small playable games with Unity and C#.
 
-- Building Unity gameplay systems and multiplayer prototypes
-- Learning scalable game architecture, profiling, and optimization
-- Looking for Unity Fresher / Part-time opportunities
-- Interested in creative games with strong atmosphere and player interaction
+Currently looking for **Unity Fresher / Part-time opportunities**.
 
 ---
 
-## Tech Constellation
+## Tech Stack
 
-### Core Game Development
+**Game Development**
 
-<p>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" alt="C Sharp" />
-  <img src="https://img.shields.io/badge/Photon_PUN_2-222222?style=for-the-badge&amp;logo=photon&amp;logoColor=white" alt="Photon PUN 2" />
-  <img src="https://img.shields.io/badge/Unity_UI-333333?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="Unity UI" />
-</p>
+`Unity` `C#` `Photon PUN 2` `Unity UI` `Input System`
 
-`Gameplay Programming` · `UI Canvas` · `Input System` · `Physics & Collision`
+`Gameplay` `Physics` `Animator` `AI` `Multiplayer` `REST API`
 
-`Animator` · `Scene Management` · `Coroutines` · `REST API Integration`
+**Architecture**
 
-### Architecture & Optimization
+`OOP` `SOLID` `Design Patterns` `ScriptableObject`
 
-<p>
-  <img src="https://img.shields.io/badge/OOP-111111?style=for-the-badge" alt="OOP" />
-  <img src="https://img.shields.io/badge/SOLID-222222?style=for-the-badge" alt="SOLID" />
-  <img src="https://img.shields.io/badge/Design_Patterns-333333?style=for-the-badge" alt="Design Patterns" />
-  <img src="https://img.shields.io/badge/Optimization-444444?style=for-the-badge" alt="Optimization" />
-</p>
+`Object Pooling` `FSM` `Behavior Tree` `Event-driven Systems`
 
-`ScriptableObject` · `Object Pooling` · `FSM` · `Behavior Tree`
+**Tools**
 
-`Event-driven Systems` · `Save & Load` · `Memory Management` · `Debugging`
+`Git` `GitHub` `Visual Studio` `VS Code` `Trello` `Postman`
 
-### Tools & Additional Development
+**Other**
 
-<p>
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Visual_Studio-333333?style=for-the-badge&amp;logo=visualstudio&amp;logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/VS_Code-444444?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Trello-555555?style=for-the-badge&amp;logo=trello&amp;logoColor=white" alt="Trello" />
-  <img src="https://img.shields.io/badge/Postman-666666?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman" />
-</p>
-
-`PHP` · `JavaScript` · `HTML5` · `CSS3` · `MySQL` · `REST API`
+`PHP` `JavaScript` `HTML5` `CSS3` `MySQL`
 
 ---
+
+## Projects
+
+### FaceAttend AI
+
+AI-powered face recognition attendance system.
+
+`AI` `REST API` `Face Recognition`
+
+### Unity Projects
+
+Gameplay and multiplayer prototypes built with Unity.
+
+`Unity` `C#` `Photon` `Game Systems`
 
 ---
 
 <div align="center">
 
-### Building Games · Exploring Systems · Growing Every Day
+**Unity Game Developer**
 
-<a href="mailto:tdanh589@gmail.com">Email</a>
-·
-<a href="https://github.com/Danhtran07">GitHub</a>
-·
-<a href="https://www.linkedin.com/in/danh-tran-82a037300/">LinkedIn</a>
-
-<br>
-
-<sub>Made with care somewhere between code and the cosmos.</sub>
+<a href="mailto:tdanh589@gmail.com">Email</a> · <a href="https://github.com/Danhtran07">GitHub</a> · <a href="https://www.linkedin.com/in/danh-tran-82a037300/">LinkedIn</a>
 
 </div>
