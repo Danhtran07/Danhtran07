@@ -2,155 +2,48 @@
 
 <img src="./developer-header.svg" width="100%" alt="Danh Tran — Unity Game Developer">
 
+# DANH TRAN
+
+### UNITY GAME DEVELOPER
+
+`GAMEPLAY` · `AI` · `MULTIPLAYER` · `GAME SYSTEMS`
+
 <br>
 
-<pre>
-D A N H   T R A N
-
-U N I T Y   G A M E   D E V E L O P E R
-
-GAMEPLAY  /  AI  /  MULTIPLAYER  /  GAME SYSTEMS
-</pre>
-
-<p>
-  <a href="mailto:tdanh589@gmail.com">EMAIL</a>
-  ·
-  <a href="https://github.com/Danhtran07">GITHUB</a>
-  ·
-  <a href="https://www.linkedin.com/in/danh-tran-82a037300/">LINKEDIN</a>
-</p>
+[EMAIL](mailto:tdanh589@gmail.com) ·
+[GITHUB](https://github.com/Danhtran07) ·
+[LINKEDIN](https://www.linkedin.com/in/danh-tran-82a037300/)
 
 </div>
 
 ---
 
-## 01 / ABOUT
+## ABOUT
 
 I'm **Danh**, a final-year IT student and Unity Game Developer from Vietnam.
 
-I enjoy building gameplay systems, AI behaviors, multiplayer features,
-and playable 2D / 3D experiences with Unity and C#.
+I build **2D / 3D games, gameplay systems, AI behaviors, and multiplayer features** with Unity and C#.
 
 Currently looking for **Unity Fresher / Part-time opportunities**.
 
 ---
 
-## 02 / SKILLS
+## STACK
 
-<table>
-<tr>
+**Unity**  
+`C#` `Animator` `Physics` `Input System` `Unity UI`
 
-<td width="33%" valign="top">
+**Gameplay & AI**  
+`FSM` `NavMesh` `AI Behavior` `Object Pooling` `Interaction Systems`
 
-### GAME DEVELOPMENT
+**Multiplayer & API**  
+`Photon PUN 2` `REST API` `HTTP / JSON` `Client-Server`
 
-`Unity`  
-`C#`  
-`ProBuilder`  
-`2D Games`  
-`3D Games`  
-`Physics`  
-`Collision`  
-`Animator`  
-`Unity UI`  
-`Input System`  
-`Scene Management`
+**Engineering**  
+`OOP` `SOLID` `Design Patterns` `ScriptableObject` `Optimization`
 
-</td>
-
-<td width="33%" valign="top">
-
-### GAMEPLAY & AI
-
-`FSM / State Machine`  
-`AI Behavior`  
-`NavMesh AI`  
-`Object Pooling`  
-`Gameplay Programming`  
-`Interaction Systems`  
-`Animator`  
-`Coroutines`  
-`Multiplayer`  
-`Photon PUN 2`
-
-</td>
-
-<td width="33%" valign="top">
-
-### GRAPHICS
-
-`Sprite`  
-`2D Animation`  
-`3D Workflow`  
-`Lighting`  
-`Light Baking`  
-`Post Processing`  
-`Photoshop`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" valign="top">
-
-### ENGINEERING
-
-`OOP`  
-`SOLID`  
-`Design Patterns`  
-`ScriptableObject`  
-`Event-driven Systems`  
-`Memory Management`  
-`Optimization`  
-`Debugging`  
-`Profiling`
-
-</td>
-
-<td width="33%" valign="top">
-
-### API & BACKEND
-
-`REST API`  
-`HTTP / JSON`  
-`Client-Server`  
-`PHP`  
-`JavaScript`  
-`MySQL`
-
-</td>
-
-<td width="33%" valign="top">
-
-### TOOLS
-
-`Git`  
-`GitHub`  
-`Visual Studio`  
-`VS Code`  
-`Trello`  
-`Postman`  
-`HTML5`  
-`CSS3`
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 03 / FOCUS
-
-<div align="center">
-
-`GAMEPLAY` &nbsp; `AI` &nbsp; `MULTIPLAYER` &nbsp; `GAME SYSTEMS`
-  
-`2D` &nbsp; `3D` &nbsp; `OPTIMIZATION` &nbsp; `TOOLS`
-
-</div>
+**Tools**  
+`Git` `GitHub` `Visual Studio` `VS Code` `Trello` `Postman`
 
 ---
 
@@ -158,16 +51,6 @@ Currently looking for **Unity Fresher / Part-time opportunities**.
 
 ### BUILD · PLAY · IMPROVE
 
-<br>
-
-<a href="mailto:tdanh589@gmail.com">EMAIL</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/Danhtran07">GITHUB</a>
-&nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/danh-tran-82a037300/">LINKEDIN</a>
-
-<br><br>
-
-<sub>Unity Game Developer · Vietnam</sub>
+`UNITY GAME DEVELOPER · VIETNAM`
 
 </div>
