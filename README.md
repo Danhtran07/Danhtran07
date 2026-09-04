@@ -66,17 +66,6 @@ Currently looking for **Unity Fresher / Part-time opportunities**.
 `UNITY GAME DEVELOPER · VIETNAM`
 
 <br><br>
-
-<a href="mailto:tdanh589@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-161B22?style=flat-square&logo=gmail&logoColor=white">
-</a>
-&nbsp;
-<a href="https://github.com/Danhtran07">
-<img src="https://img.shields.io/badge/GITHUB-161B22?style=flat-square&logo=github&logoColor=white">
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/danh-tran-82a037300/">
-<img src="https://img.shields.io/badge/LINKEDIN-161B22?style=flat-square&logo=linkedin&logoColor=white">
 </a>
 
 </div>
