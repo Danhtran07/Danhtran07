@@ -1,75 +1,173 @@
 <div align="center">
 
-<img src="./developer-header.svg" alt="Danh Tran — Unity Game Developer" width="100%" />
+<img src="./developer-header.svg" width="100%" alt="Danh Tran — Unity Game Developer">
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Unity+Game+Developer;Gameplay+%7C+Multiplayer+%7C+Game+Systems;Building+Games+With+Unity" alt="Typing introduction" />
-</a>
+<br>
+
+<pre>
+D A N H   T R A N
+
+U N I T Y   G A M E   D E V E L O P E R
+
+GAMEPLAY  /  AI  /  MULTIPLAYER  /  GAME SYSTEMS
+</pre>
 
 <p>
-  <a href="mailto:tdanh589@gmail.com">Email</a> ·
-  <a href="https://github.com/Danhtran07">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/danh-tran-82a037300/">LinkedIn</a>
+  <a href="mailto:tdanh589@gmail.com">EMAIL</a>
+  ·
+  <a href="https://github.com/Danhtran07">GITHUB</a>
+  ·
+  <a href="https://www.linkedin.com/in/danh-tran-82a037300/">LINKEDIN</a>
 </p>
 
 </div>
 
 ---
 
-## About Me
+## 01 / ABOUT
 
-Hi, I'm **Danh**, a final-year IT student and Unity developer from Vietnam.
+I'm **Danh**, a final-year IT student and Unity Game Developer from Vietnam.
 
-I build gameplay systems, multiplayer prototypes, AI behaviors, and small playable games with Unity and C#.
+I enjoy building gameplay systems, AI behaviors, multiplayer features,
+and playable 2D / 3D experiences with Unity and C#.
 
 Currently looking for **Unity Fresher / Part-time opportunities**.
 
 ---
 
-## Tech Stack
+## 02 / SKILLS
 
-**Game Development**
+<table>
+<tr>
 
-`Unity` `C#` `Photon PUN 2` `Unity UI` `Input System`
+<td width="33%" valign="top">
 
-`Gameplay` `Physics` `Animator` `AI` `Multiplayer` `REST API`
+### GAME DEVELOPMENT
 
-**Architecture**
+`Unity`  
+`C#`  
+`ProBuilder`  
+`2D Games`  
+`3D Games`  
+`Physics`  
+`Collision`  
+`Animator`  
+`Unity UI`  
+`Input System`  
+`Scene Management`
 
-`OOP` `SOLID` `Design Patterns` `ScriptableObject`
+</td>
 
-`Object Pooling` `FSM` `Behavior Tree` `Event-driven Systems`
+<td width="33%" valign="top">
 
-**Tools**
+### GAMEPLAY & AI
 
-`Git` `GitHub` `Visual Studio` `VS Code` `Trello` `Postman`
+`FSM / State Machine`  
+`AI Behavior`  
+`NavMesh AI`  
+`Object Pooling`  
+`Gameplay Programming`  
+`Interaction Systems`  
+`Animator`  
+`Coroutines`  
+`Multiplayer`  
+`Photon PUN 2`
 
-**Other**
+</td>
 
-`PHP` `JavaScript` `HTML5` `CSS3` `MySQL`
+<td width="33%" valign="top">
+
+### GRAPHICS
+
+`Sprite`  
+`2D Animation`  
+`3D Workflow`  
+`Lighting`  
+`Light Baking`  
+`Post Processing`  
+`Photoshop`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+### ENGINEERING
+
+`OOP`  
+`SOLID`  
+`Design Patterns`  
+`ScriptableObject`  
+`Event-driven Systems`  
+`Memory Management`  
+`Optimization`  
+`Debugging`  
+`Profiling`
+
+</td>
+
+<td width="33%" valign="top">
+
+### API & BACKEND
+
+`REST API`  
+`HTTP / JSON`  
+`Client-Server`  
+`PHP`  
+`JavaScript`  
+`MySQL`
+
+</td>
+
+<td width="33%" valign="top">
+
+### TOOLS
+
+`Git`  
+`GitHub`  
+`Visual Studio`  
+`VS Code`  
+`Trello`  
+`Postman`  
+`HTML5`  
+`CSS3`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## Projects
+## 03 / FOCUS
 
-### FaceAttend AI
+<div align="center">
 
-AI-powered face recognition attendance system.
+`GAMEPLAY` &nbsp; `AI` &nbsp; `MULTIPLAYER` &nbsp; `GAME SYSTEMS`
+  
+`2D` &nbsp; `3D` &nbsp; `OPTIMIZATION` &nbsp; `TOOLS`
 
-`AI` `REST API` `Face Recognition`
-
-### Unity Projects
-
-Gameplay and multiplayer prototypes built with Unity.
-
-`Unity` `C#` `Photon` `Game Systems`
+</div>
 
 ---
 
 <div align="center">
 
-**Unity Game Developer**
+### BUILD · PLAY · IMPROVE
 
-<a href="mailto:tdanh589@gmail.com">Email</a> · <a href="https://github.com/Danhtran07">GitHub</a> · <a href="https://www.linkedin.com/in/danh-tran-82a037300/">LinkedIn</a>
+<br>
+
+<a href="mailto:tdanh589@gmail.com">EMAIL</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/Danhtran07">GITHUB</a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/danh-tran-82a037300/">LINKEDIN</a>
+
+<br><br>
+
+<sub>Unity Game Developer · Vietnam</sub>
 
 </div>
